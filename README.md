@@ -7,13 +7,13 @@
  Be wary of the asteroid particles and space debris, as a collision with these results in a lost life. Be mindful also of going off screen (i.e, out of bounds outside of the forcefield and exit parameters), 
  as the spaceship will veer off course, and will subsequently lose a life.
  
- # Known bugs/problems:
+ # Known bugs/problems
  Not much to report. Some slowness with the loading of MP3 files, but nothing too significant.
  
  Using mouse to click buttons on GUI sometimes reults in spaceship moving automatically when a new game is played.
  I added instrutions to prompt the user to use 'Esc' or 'Enter' keys.
  
- # References and Sources:
+ # References and Sources
  
  1. keyCode. Processing. [ONLINE] Available at:
  https://processing.org/reference/keyCode.html
