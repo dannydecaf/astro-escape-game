@@ -1,7 +1,6 @@
-# astro-escape-game
-/*
+
  
- # Brief description of the game developed
+ # Astro Escape - Brief description of the game developed
  'Astro Escape: Return to Planet Earth', follows the story of an astronaut trying to return to Earth. But his pathway to Earth is heavily obstructed by a flurry of asteroid particles and space debris.
  Some fellow crew members have managed to section out the dangerous path, by placing several forcefields every so often. This acts as a checkpoint/safe zone for the astronaut on his journey back home.
  Upon booting up the game, the player can select their player name, the amount of games they wish to play, and the amount of levels which they wish to test themselves with, in order to accomplish the goal of a safe return back to earth.
