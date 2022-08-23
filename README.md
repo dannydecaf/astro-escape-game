@@ -1,22 +1,20 @@
 # astro-escape-game
 /*
- Name : Dan Coffey
- Student Number: 08559350
  
- Brief description of the game developed:
+ # Brief description of the game developed
  'Astro Escape: Return to Planet Earth', follows the story of an astronaut trying to return to Earth. But his pathway to Earth is heavily obstructed by a flurry of asteroid particles and space debris.
  Some fellow crew members have managed to section out the dangerous path, by placing several forcefields every so often. This acts as a checkpoint/safe zone for the astronaut on his journey back home.
  Upon booting up the game, the player can select their player name, the amount of games they wish to play, and the amount of levels which they wish to test themselves with, in order to accomplish the goal of a safe return back to earth.
  Be wary of the asteroid particles and space debris, as a collision with these results in a lost life. Be mindful also of going off screen (i.e, out of bounds outside of the forcefield and exit parameters), 
  as the spaceship will veer off course, and will subsequently lose a life.
  
- Known bugs/problems:
+ # Known bugs/problems:
  Not much to report. Some slowness with the loading of MP3 files, but nothing too significant.
  
  Using mouse to click buttons on GUI sometimes reults in spaceship moving automatically when a new game is played.
  I added instrutions to prompt the user to use 'Esc' or 'Enter' keys.
  
- Any sources referred to during the development of the assignment (be precise and specific with references) {there no need to reference lecture/lab materials}:
+ # References and Sources:
  
  1. keyCode. Processing. [ONLINE] Available at:
  https://processing.org/reference/keyCode.html
